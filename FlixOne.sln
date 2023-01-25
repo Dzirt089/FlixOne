@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlixOne.InventoryManagement", "FlixOne.InventoryManagement\FlixOne.InventoryManagement.csproj", "{9623C5DD-0944-4A96-B383-486957D5C358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlixOne.InventoryManagementClient", "FlixOne.InventoryManagementClient\FlixOne.InventoryManagementClient.csproj", "{F7ED725C-0723-42E0-A8E9-D8B3A31D1CBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlixOne.InventoryManagementTests", "FlixOne.InventoryManagementTests\FlixOne.InventoryManagementTests.csproj", "{55CD044F-51C7-40F7-B8B1-97F0D73DBAF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9623C5DD-0944-4A96-B383-486957D5C358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9623C5DD-0944-4A96-B383-486957D5C358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9623C5DD-0944-4A96-B383-486957D5C358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9623C5DD-0944-4A96-B383-486957D5C358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7ED725C-0723-42E0-A8E9-D8B3A31D1CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7ED725C-0723-42E0-A8E9-D8B3A31D1CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7ED725C-0723-42E0-A8E9-D8B3A31D1CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7ED725C-0723-42E0-A8E9-D8B3A31D1CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CD044F-51C7-40F7-B8B1-97F0D73DBAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CD044F-51C7-40F7-B8B1-97F0D73DBAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CD044F-51C7-40F7-B8B1-97F0D73DBAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CD044F-51C7-40F7-B8B1-97F0D73DBAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
